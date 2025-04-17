@@ -1,0 +1,11 @@
+
+Q.1) Amazon CloudFront  
+Q.2) Controlling access to AWS services  
+Q.3) Amazon ECS  
+Q.4) Relational database management  
+Q.5) AWS Lambda  
+Q.6) 5 TB  
+Q.7) Amazon VPC  
+Q.8) Monitoring and observability  
+Q.9) S3 Glacier  
+Q.10) AWS CloudFormation  
